@@ -1,0 +1,6 @@
+we have added this today i am learning about git working 3 part there
+
+working tree
+staging area
+local repo
+remote repo

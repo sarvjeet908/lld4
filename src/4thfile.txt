@@ -1,0 +1,2 @@
+hey added one more file to check status
+this is in working tree part --before add and commit
